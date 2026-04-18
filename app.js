@@ -2,7 +2,7 @@
 let fruits = ["apple", "banana", "cherry"];
 fruits.push("orange");
 fruits.shift(); // remove the first element
-fruits.unshift("grape"); // add "grape" to  beginning
+fruits.unshift("grape"); // add "grape" to beginning
 console.log(fruits);
 
 // Task 2
